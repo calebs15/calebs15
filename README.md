@@ -5,6 +5,7 @@
   - <b>Python
     - [March Madness 2024](https://github.com/calebs15/mm2024)
   - <b>SQL
+    - [Spotify Popular Songs](https://github.com/calebs15/spotify)
   - <b>Tableau
 
 <h2> 🤳 Connect with me:</h2>
